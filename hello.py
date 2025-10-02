@@ -1,0 +1,3 @@
+s = "abcabcbb"
+
+len(s)
